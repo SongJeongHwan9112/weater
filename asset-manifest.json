@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/scandinavia135790/static/css/main.c9e64761.css",
+    "main.js": "/scandinavia135790/static/js/main.08b89c69.js",
+    "static/media/weather-icos.gif": "/scandinavia135790/static/media/weather-icos.30d002797420050c4df4.gif",
+    "static/media/back.png": "/scandinavia135790/static/media/back.3f512f8238c1d76275bc.png",
+    "index.html": "/scandinavia135790/index.html",
+    "main.c9e64761.css.map": "/scandinavia135790/static/css/main.c9e64761.css.map",
+    "main.08b89c69.js.map": "/scandinavia135790/static/js/main.08b89c69.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c9e64761.css",
+    "static/js/main.08b89c69.js"
+  ]
+}
